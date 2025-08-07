@@ -1,0 +1,20 @@
+{
+  "name": "onboardingbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronan-Pinheiro/Bot-de-integra-o.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronan-Pinheiro/Bot-de-integra-o/issues"
+  },
+  "homepage": "https://github.com/Ronan-Pinheiro/Bot-de-integra-o#readme",
+  "description": ""
+}
